@@ -1,9 +1,8 @@
-'''
-@Author: gunjianpan
-@Date:   2019-04-20 15:04:03
-@Last Modified by:   gunjianpan
-@Last Modified time: 2019-04-20 21:13:19
-'''
+# -*- coding: utf-8 -*-
+# @Author: wuyiying
+# @Date:   2019-04-19 14:13:49
+# @Last Modified by:   wuyiying
+# @Last Modified time: 2019-04-22 21:36:10
 
 import numpy as np
 import platform
